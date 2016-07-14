@@ -38,7 +38,7 @@ Feel free to go it alone, however, one can also make their life easier by follow
 
 ## TOC
 
-### - Topic Interest Score (aka. Surge) Datasets
+### - [Topic Interest Score (aka. Surge) Datasets](https://github.com/bomboradata/bombora-tutorials/blob/master/notebooks/topic-interest-score/topic-interest-result-data-schema.ipynb)
 
 ---
 
