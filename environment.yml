@@ -1,0 +1,11 @@
+# conda environment definition for running notebooks in
+# bombora tutorials
+name: bombora-tutorials
+dependencies:
+  - python>=3.5
+  - jupyter
+  - pandas
+  - pip:
+    - plotly
+    - cufflinks
+
